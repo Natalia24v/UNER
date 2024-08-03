@@ -1,0 +1,56 @@
+[
+{
+"numero": 1,
+"modelo": "Fiesta Kinetic",
+"marca": "Ford",
+"tipo": "Berlina",
+"color" : "Azul",
+"precio": 2000000.00
+},
+{
+"numero": 2,
+"modelo": "Focus SEL",
+"marca": "Ford",
+"tipo": "Sedán",
+"color" : "Rojo",
+"precio": 2500000.00
+},
+{
+"numero": 4,
+"modelo": "DS7",
+"marca": "Citröen",
+"tipo": "SUV",
+"precio": 3000000.00
+},
+{
+"numero": 5,
+"modelo": "Hilux SRV",
+"marca": "Toyota",
+"tipo": "Camioneta",
+"precio": 6000000.00
+},
+{
+"numero": 6,
+"modelo": "Cruze",
+"marca": "Chevrolet",
+"tipo": "Sedán",
+"color" : "Bordó",
+"precio": 2500000.00
+},
+{
+"numero": 7,
+"modelo": "S10",
+"marca": "Chevrolet",
+"tipo": "Camioneta",
+"color" : "Negra",
+"precio": 6000000.00
+},
+{
+"numero": 8,
+"modelo": "Ka",
+"marca": "Ford",
+"tipo": "Berlina",
+"color" : "Naranja",
+"precio": 200000.00
+}
+]
